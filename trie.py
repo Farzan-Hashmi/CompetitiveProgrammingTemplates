@@ -1,0 +1,1 @@
+# Farzan you should be able to implement a trie in like a minute
