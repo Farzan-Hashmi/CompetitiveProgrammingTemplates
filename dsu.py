@@ -1,4 +1,4 @@
-#path compression with union by size == O(alpha(n)) where alpha(n) is the inverse Ackermann function (< 5 for like any n). TODO: attempt to understand proof at some point
+#path compression with union by size == O(alpha(n)) where alpha(n) is the inverse Ackermann function (< 5 for like any feasible n). TODO: attempt to understand proof at some point
 # source: i think from a codeforces blog post?
 
 from collections import defaultdict
